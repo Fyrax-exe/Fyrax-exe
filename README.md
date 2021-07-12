@@ -4,5 +4,5 @@
 
 <a href="https://github.com/Fyrax-exe/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fyrax-exe&layout=compact&theme=material-palenight" />
+  <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=Fyrax-exe&layout=compact&theme=material-palenight" />
 </a>
